@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EFY Home Automation</string>
+    <string name="title_home">Lights on</string>
+    <string name="title_homeof">Lights off</string>
+    <string name="title_dashboard">Fan on</string>
+    <string name="title_dashboardof">Fan off</string>
+</resources>

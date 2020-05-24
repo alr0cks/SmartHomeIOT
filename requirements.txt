@@ -1,0 +1,17 @@
+:>>sudo apt-get install apache2 -y
+
+:>>sudo apt-get install php libapache2-mod-php -y
+
+Connection
+
+Now connect the components as illustrated below.
+
+Raspberry pi           Relay Board
+
+GPIO 13                    Relay IN 1
+
+GPIO 15                    Relay IN  2
+
+5V                            Relay 5V
+
+GND                          GND
